@@ -18,6 +18,9 @@ Distance-based methods provide a powerful geometric lens for exploratory data an
 * Apply classical and metric MDS
 * Visualize low-dimensional embeddings
 
+## Materials
+This repo includes a PDF of slides which provide an indepth explanation of distance matrices and MDS. The Jupyter Notebook provides examples and highlights utilizing scipy and scikit-learn to complete and analyze MDS.
+
 ## Tools
 * Python
 * SciPy
