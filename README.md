@@ -11,7 +11,7 @@ Distance-based methods provide a powerful geometric lens for exploratory data an
 * Understanding distortion and limitations
 
 ## Installation
-'pip install numpy scipy scikit-learn matplotlib'
+`pip install numpy scipy scikit-learn matplotlib`
 
 ## Usage
 * Compute distance matrices using multiple metrics
